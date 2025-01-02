@@ -1,0 +1,9 @@
+{
+    "name": "egor/ddd",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "require": {}
+}
